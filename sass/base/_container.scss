@@ -1,0 +1,23 @@
+.container {
+    max-width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-header {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    padding: 0 15px;
+}
+.container-footer {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: baseline;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}

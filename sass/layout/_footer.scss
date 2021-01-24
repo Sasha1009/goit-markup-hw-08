@@ -1,0 +1,42 @@
+.footer {
+    background: #2F303A;
+}
+
+.footer-connect {
+    color: #fff;
+    display: flex;
+    padding-left: 70px;
+    margin-bottom: 20px;
+}
+.address {
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.714;
+    letter-spacing: 0.03em;
+    color: #ffff;
+    margin-top: 25px;
+}
+
+.contact-info {
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.714;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    margin-top: 10px;
+    display: block;
+}
+.icon-footer {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+
+.Studio-footer {
+    color: #fff;
+}
